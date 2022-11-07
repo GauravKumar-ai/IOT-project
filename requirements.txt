@@ -1,0 +1,4 @@
+pymongo[srv]==4.2.0
+#tensorflow
+dnspython==2.2.1
+-e .
